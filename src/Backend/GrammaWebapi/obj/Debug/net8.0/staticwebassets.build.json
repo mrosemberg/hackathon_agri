@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m6mYX3CIaMEXljp5mpXcueoKb2IxbA6UGkZatDdOtIw=",
+  "Source": "GrammaWebapi",
+  "BasePath": "_content/GrammaWebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
